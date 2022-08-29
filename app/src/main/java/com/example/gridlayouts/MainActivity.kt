@@ -13,7 +13,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.gridlayouts.grids.independentrowcolumn.IndependentRowAndColumn
-import com.example.gridlayouts.grids.lazyverticalgridprep.CreateVerticalGrid
 import com.example.gridlayouts.ui.theme.GridLayoutsTheme
 
 class MainActivity : ComponentActivity() {
